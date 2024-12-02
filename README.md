@@ -19,7 +19,7 @@ Welcome to the **Facial Recognition Attendance System**! This project leverages 
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/facial-recognition-attendance-system.git
+    git clone https://github.com/Ashirwad2004/attendance-management-system
     cd facial-recognition-attendance-system
     ```
 
@@ -81,11 +81,11 @@ This project is licensed under the MIT License. See the License file for more de
 
 ## 👥 Contributors
 
-- ARMAN AHMED
+- Ashirwad kumar jha
 
 ## 💬 Contact
 
-For any queries or suggestions, feel free to reach out via armanofficial2401@gmail.com or open an issue on GitHub.
+For any queries or suggestions, feel free to reach out via ashirwassatyam@gmail.com or open an issue on GitHub.
 
 ![Footer](path/to/your/footer-image.png)
 
